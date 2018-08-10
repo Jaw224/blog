@@ -1,0 +1,51 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-index {
+  background-image: url("../img/header.jpg");
+  background-color: #b3e0ff;
+  height: 94%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+.hero-about {
+  background-image: url("../img/header.jpg");
+  background-color: #b3e0ff;
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+.hero-travel {
+  background-image: url("../img/header.jpg");
+  background-color: #b3e0ff;
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+.hero-gallery {
+  background-image: url("../img/header.jpg");
+  background-color: #b3e0ff;
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+.hero-support {
+  background-image: url("../img/header.jpg");
+  background-color: #b3e0ff;
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
