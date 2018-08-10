@@ -6,7 +6,7 @@ body, html {
 
 .hero-index {
   background-image: url("../img/header.jpg");
-  background-color: #b3e0ff;
+  background-color: #69B4FD;
   height: 94%;
   background-position: center;
   background-repeat: no-repeat;
@@ -15,7 +15,7 @@ body, html {
 }
 .hero-about {
   background-image: url("../img/header.jpg");
-  background-color: #b3e0ff;
+  background-color: #69B4FD;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -24,7 +24,7 @@ body, html {
 }
 .hero-travel {
   background-image: url("../img/header.jpg");
-  background-color: #b3e0ff;
+  background-color: #69B4FD;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -33,7 +33,7 @@ body, html {
 }
 .hero-gallery {
   background-image: url("../img/header.jpg");
-  background-color: #b3e0ff;
+  background-color: #69B4FD;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -42,7 +42,7 @@ body, html {
 }
 .hero-support {
   background-image: url("../img/header.jpg");
-  background-color: #b3e0ff;
+  background-color: #69B4FD;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
