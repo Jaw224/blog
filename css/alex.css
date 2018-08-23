@@ -6,16 +6,16 @@ body, html {
 
 .hero-index {
   background-image: url("../img/header.jpg");
-  background-color: #69B4FD;
-  height: 94%;
+  background-color: ;
+  height: 93%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: contain;
   position: relative;
 }
 .hero-about {
-  background-image: url("../img/header.jpg");
-  background-color: #69B4FD;
+  background-image: url("../img/aboutheader.jpg");
+  background-color: ;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -23,8 +23,8 @@ body, html {
   position: relative;
 }
 .hero-travel {
-  background-image: url("../img/header.jpg");
-  background-color: #69B4FD;
+  background-image: url("../img/travelheader.jpg");
+  background-color: ;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -32,8 +32,8 @@ body, html {
   position: relative;
 }
 .hero-gallery {
-  background-image: url("../img/header.jpg");
-  background-color: #69B4FD;
+  background-image: url("../img/galleryheader.jpg");
+  background-color:;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -41,11 +41,19 @@ body, html {
   position: relative;
 }
 .hero-support {
-  background-image: url("../img/header.jpg");
-  background-color: #69B4FD;
+  background-image: url("../img/supportheader.jpg");
+  background-color:;
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
   position: relative;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
